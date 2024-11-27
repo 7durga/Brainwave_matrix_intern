@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" width="300" height="150">
+  <!-- Frames -->
+  <path 
+    d="M50 50 C30 50, 20 70, 50 90 Q70 110, 100 90 C130 70, 120 50, 100 50 Z" 
+    fill="#333" 
+    stroke="#111" 
+    stroke-width="3"/>
+  <path 
+    d="M200 50 C180 50, 170 70, 200 90 Q220 110, 250 90 C280 70, 270 50, 250 50 Z" 
+    fill="#333" 
+    stroke="#111" 
+    stroke-width="3"/>
+
+  <!-- Lenses -->
+  <ellipse 
+    cx="75" 
+    cy="75" 
+    rx="40" 
+    ry="25" 
+    fill="#87CEEB" 
+    opacity="0.7"/>
+  <ellipse 
+    cx="225" 
+    cy="75" 
+    rx="40" 
+    ry="25" 
+    fill="#87CEEB" 
+    opacity="0.7"/>
+
+  <!-- Bridge -->
+  <rect 
+    x="130" 
+    y="70" 
+    width="40" 
+    height="10" 
+    fill="#111"/>
+
+  <!-- Temples -->
+  <path 
+    d="M10 70 L50 70 L50 80 L10 80 Z" 
+    fill="#333" />
+  <path 
+    d="M290 70 L250 70 L250 80 L290 80 Z" 
+    fill="#333" />
+</svg>

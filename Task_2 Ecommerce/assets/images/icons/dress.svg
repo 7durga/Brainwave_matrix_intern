@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Shirt Body -->
+  <path 
+    d="M100 50 L75 100 L75 220 L225 220 L225 100 L200 50 Z" 
+    fill="#4CAF50" 
+    stroke="#333" 
+    stroke-width="4"/>
+  
+  <!-- Collar -->
+  <path 
+    d="M100 50 Q150 0 200 50" 
+    fill="#FFC107" 
+    stroke="#333" 
+    stroke-width="4"/>
+  
+  <!-- Sleeves -->
+  <path 
+    d="M75 100 Q50 150 75 200 L75 100 Z" 
+    fill="#4CAF50" 
+    stroke="#333" 
+    stroke-width="4"/>
+  <path 
+    d="M225 100 Q250 150 225 200 L225 100 Z" 
+    fill="#4CAF50" 
+    stroke="#333" 
+    stroke-width="4"/>
+  
+  <!-- Buttons -->
+  <circle cx="150" cy="120" r="4" fill="#333"/>
+  <circle cx="150" cy="150" r="4" fill="#333"/>
+  <circle cx="150" cy="180" r="4" fill="#333"/>
+</svg>
